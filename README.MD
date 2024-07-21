@@ -12,13 +12,6 @@
 
 -------
 
-<p align="center">
-  <img 
-    src=".github/assets/preview.png"
-    width="400"  
-  />
-</p>
-
 # Projeto artigo técnico gerado por I.A.s
 
 
@@ -47,15 +40,16 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | crie 10 headlines para nomes de artigos sobre o assunto introdução a Python                                                                                                                                                                                                    |
+| conteúdo | Comporte-se como um escritor de artigos de tecnologia e especialista em Python e escreva um artigo atendendo as regras abaixo:{REGRAS} No máximo 5 linhas por bloco de explicação Me explique de maneira informal, como se eu fosse leigo no assunto de programação Os blocos que serão criados estão abaixo: O que são linguagens de programação? O que é Python? Como usar Python?  Dê um passo a passo de como instalar o Python na máquina Vantagens e desvantagens do Python Demonstre um código simples Faça um call to action para minhas redes sociais Coloque 3 hashtags que façam sentido  No bloco de demonstrar códigos, mostre como rodar o código e também explique os tipos de variáveis, funções, condicionais, listas e dicionários. Por favor adicione explicações dos tipos de variáveis, funções, condicionais, listas e dicionários Explique melhor o que cada tipo de variável faz Explique melhor funções, condicionais, listas e dicionários.
+|
 
 
 Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• Angular
+• Python programming
 
 
 
@@ -79,22 +73,14 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspMatheus Brizola<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/MatheusBrizza">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
+matheusbjacob">LinkedIn</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
